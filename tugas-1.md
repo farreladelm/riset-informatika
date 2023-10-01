@@ -13,4 +13,4 @@
 - Bagaimana kita dapat meningkatkan akurasi pengenalan wajah dalam situasi yang sulit?
 - Apakah menggunakan arsitektur deep learning tertentu lebih efektif dalam pengenalan wajah?
 ## Teori
-- eori-teori yang relevan mencakup Convolutional Neural Networks (CNN) untuk pemrosesan gambar, transfer learning dengan menggunakan model pre-trained (seperti FaceNet), dan teknik augmentasi data untuk meningkatkan performa model.
+- Teori-teori yang relevan mencakup Convolutional Neural Networks (CNN) untuk pemrosesan gambar, transfer learning dengan menggunakan model pre-trained (seperti FaceNet), dan teknik augmentasi data untuk meningkatkan performa model.
