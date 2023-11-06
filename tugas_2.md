@@ -2,10 +2,10 @@
 
 # Contoh Paper yang Menggunakan Metode atau Metodologi
 1. Metodologi
-    - [Perancangan Sistem Informasi Persediaan Barang Menggunakan Metode Agile Scrum diToko Wartas Tangerang Selatan] (http://jurnalmahasiswa.com/index.php/jriin/article/view/33)
+    - [Perancangan Sistem Informasi Persediaan Barang Menggunakan Metode Agile Scrum diToko Wartas Tangerang Selatan](http://jurnalmahasiswa.com/index.php/jriin/article/view/33)
 
 2. Metode
-    - [IMPLEMENTASI METODE SIMPLE ADDITIVE WEIGHTING (SAW) PADA SISTEM PENDUKUNG KEPUTUSAN UNTUK MENYELEKSI SAHAM PRIMA] (https://dirdosen.budiluhur.ac.id/0305068201/jafung/bid-penelitian/38-2019-Implementasi%20Metode%20SAW.pdf)
+    - [IMPLEMENTASI METODE SIMPLE ADDITIVE WEIGHTING (SAW) PADA SISTEM PENDUKUNG KEPUTUSAN UNTUK MENYELEKSI SAHAM PRIMA](https://dirdosen.budiluhur.ac.id/0305068201/jafung/bid-penelitian/38-2019-Implementasi%20Metode%20SAW.pdf)
   
 # Implementasi Pada Riset Penelitian
 1. Metode
